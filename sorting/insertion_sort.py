@@ -1,10 +1,9 @@
 def insertion_sort(items: list):
     for i, item in enumerate(items[1:]):
-        j = i
-        while j > -1 and items[j] > item:
-            items[j + 1] = items[j]
-            j -= 1
-        items[j + 1] = item
+        while i > -1 and items[i] > item:
+            items[i + 1] = items[i]
+            i -= 1
+        items[i + 1] = item
 
     return items
 
