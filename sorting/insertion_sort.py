@@ -13,6 +13,7 @@ if __name__ == "__main__":
     print(insertion_sort([1]))
     print(insertion_sort([0, 100000000, 20000]))
     print(insertion_sort([1, 0]))
+    print(insertion_sort([1.5, -2.6, 2, 1.1]))
     print(insertion_sort([3, 6, 8, 1, 2, 5, 3, 9, 3, 5, 9, 2]))
     print(insertion_sort([3, 6, -45, 1, 2, 5, 3, -9, 3, 0, 9, 2]))
     print(insertion_sort([3, 6, -45, 1, 2, 5, 3, -9,
