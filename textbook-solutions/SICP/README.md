@@ -3,11 +3,11 @@ My solutions to the exercises in [Structure and Interpretation of Computer Progr
 
 A work in progress..
 
-- [Chapter 1 - Building Abstractions with Procedures](/ch1)
-- [Chapter 2 - Building Abstractions with Data](/ch2)
-- [Chapter 3 - Modularity, Objects, and State](/ch3)
-- [Chapter 4 - Metalinguistic Abstraction](/ch4)
-- [Chapter 5 - Computing with Reigster Machines](/ch5)
+- [Chapter 1 - Building Abstractions with Procedures](./ch1)
+- [Chapter 2 - Building Abstractions with Data](./ch2)
+- [Chapter 3 - Modularity, Objects, and State](./ch3)
+- [Chapter 4 - Metalinguistic Abstraction](./ch4)
+- [Chapter 5 - Computing with Reigster Machines](./ch5)
 
 ## Other solutions to SICP
 - [Community Scheme](http://community.schemewiki.org/?SICP-Solutions)
