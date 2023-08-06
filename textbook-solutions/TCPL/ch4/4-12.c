@@ -3,7 +3,6 @@
 #include <stdbool.h>
 
 int itoa(int n, char s[]);
-void reverse(char s[]);
 
 int main()
 {
